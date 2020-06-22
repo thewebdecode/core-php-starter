@@ -1,0 +1,14 @@
+{
+    "name": "thewebdecode/core-php-starter",
+    "description": "A well managed structure for the core php projects to manage core php or statis projects easily.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shoaib Khan",
+            "email": "info@webdecode.in
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
