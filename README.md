@@ -8,7 +8,7 @@ A few simple steps are needed to get this application up and running:
 
 
 ```
-# install the project and its dependencies
+# install the project
 composer create-project thewebdecode/core-php-starter [project-name]
 ```
 
